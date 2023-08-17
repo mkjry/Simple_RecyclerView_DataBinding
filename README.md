@@ -2,5 +2,5 @@
 
 Simplified Recyclerview with Kotlin codes
 
-DataBinding, initialize, Draw Recyclerview with fill data through data binding
+DataBinding, initialize adapter, Draw Recyclerview fill data through data binding
 Click event on Recyclerview
